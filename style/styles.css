@@ -10,3 +10,13 @@
 .button {
     color: #1ca7ec;
 }
+#simpanContact {
+    margin-bottom: 10px;
+}
+.table-style {
+    margin-left: 18px;
+    margin-right: 18px;
+}
+.button.btn.btn-primary{
+    padding: 13px;
+}

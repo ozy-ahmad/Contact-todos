@@ -1,20 +1,12 @@
 {
   "contacts": [
     {
-      "name": "dasdas",
-      "address": "asdasd",
-      "email": "aozy39@yahoo.com",
-      "phone": "08127474747",
-      "company": "sadasdasd",
-      "id": 4
-    },
-    {
-      "name": "indra",
-      "address": "bengkong",
-      "email": "indra@yahoo.com",
-      "phone": "9299299292",
+      "name": "Ahmad Fakhrozys",
+      "address": "Jalan jakarta nomor 18 Asrama Mahasiswa Kalimantan Timur  kelurahan penanggungan",
+      "email": "Jalan jakarta nomor 18 Asrama Mahasiswa Kalimantan Timur  kelurahan penanggungan",
+      "phone": "0821123123123",
       "company": "google",
-      "id": 5
+      "id": 1
     }
   ]
 }
